@@ -29,7 +29,7 @@ app.use(express.json());
 
 // Allow CORS from your frontend URL
 const allowedOrigins = [
-  "https://carbon-footprint-checker.vercel.app", 
+  "https://carbon-footprint-frontend-jet.vercel.app", 
   "http://localhost:3000",
   "http://localhost:3001"
 ];
